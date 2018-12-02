@@ -1,4 +1,4 @@
-# CircuitPython demo - NeoPixel
+# CircuitPython demo - NeoPixel Light Strip Animations
 import time
 import board
 import neopixel
