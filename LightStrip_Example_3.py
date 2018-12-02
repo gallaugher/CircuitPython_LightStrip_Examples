@@ -23,7 +23,7 @@ PINK = (255, 0, 130)
 
 while True:
     if cpx.button_a and cpx.button_b:
-        print("Button B pressed!")
+        print("Button A & Button B pressed!")
         pixels.fill((0, 0, 0))
     if cpx.button_a:
         print("Button A pressed!")
