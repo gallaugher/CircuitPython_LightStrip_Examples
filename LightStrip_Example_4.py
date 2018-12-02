@@ -1,4 +1,4 @@
-# CircuitPython LightStrip_Example_2 - Color Constants
+# CircuitPython LightStrip_Example_4 - Arrays and Colors
 from adafruit_circuitplayground.express import cpx
 import time
 import board  # used to set neopixel pin
