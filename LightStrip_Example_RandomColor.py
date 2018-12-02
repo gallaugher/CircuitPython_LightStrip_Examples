@@ -1,4 +1,4 @@
-# CircuitPython LightStrip_Example_1
+# CircuitPython LightStrip_Example_RandomColor
 from adafruit_circuitplayground.express import cpx
 import time
 import board  # used to set neopixel pin
